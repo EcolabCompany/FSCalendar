@@ -253,6 +253,10 @@ IB_DESIGNABLE
 @property (weak, nonatomic) IBOutlet id<FSCalendarDataSource> dataSource;
 
 /**
+ * The underlining collectionView for the calendar
+ */
+@property (weak  , nonatomic) FSCalendarCollectionView   *collectionView;
+/**
  * A special mark will be put on 'today' of the calendar.
  */
 @property (nullable, strong, nonatomic) NSDate *today;
