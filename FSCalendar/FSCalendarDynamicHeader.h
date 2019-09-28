@@ -23,7 +23,7 @@
 
 @interface FSCalendar (Dynamic)
 
-@property (readonly, nonatomic) FSCalendarCollectionView *collectionView;
+//@property (readonly, nonatomic) FSCalendarCollectionView *collectionView;
 @property (readonly, nonatomic) FSCalendarCollectionViewLayout *collectionViewLayout;
 @property (readonly, nonatomic) FSCalendarTransitionCoordinator *transitionCoordinator;
 @property (readonly, nonatomic) FSCalendarCalculator *calculator;
