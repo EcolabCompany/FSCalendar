@@ -4,10 +4,4 @@
    <FileRef
       location = "group:Example-Objc/FSCalendar.xcodeproj">
    </FileRef>
-   <FileRef
-      location = "group:Example-Swift/FSCalendarSwiftExample.xcodeproj">
-   </FileRef>
-   <FileRef
-      location = "group:Example-TodayExtension/Example-TodayExtension.xcodeproj">
-   </FileRef>
 </Workspace>
