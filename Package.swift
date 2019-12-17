@@ -15,6 +15,6 @@ let package = Package(
             targets: ["FSCalendar"])
     ],
     targets: [
-        .target(name: "FSCalendar")
+        .target(name: "FSCalendar", publicHeadersPath: "Include")
     ]
 )
