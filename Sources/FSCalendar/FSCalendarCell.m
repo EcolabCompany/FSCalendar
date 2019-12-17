@@ -6,8 +6,8 @@
 //
 //
 
-#import "FSCalendarCell.h"
-#import "FSCalendar.h"
+#import "Include/FSCalendarCell.h"
+#import "Include/FSCalendar.h"
 #import "FSCalendarExtensions.h"
 #import "FSCalendarDynamicHeader.h"
 #import "FSCalendarConstants.h"

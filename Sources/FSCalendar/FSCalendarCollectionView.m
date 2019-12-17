@@ -8,9 +8,9 @@
 //  Reject -[UIScrollView(UIScrollViewInternal) _adjustContentOffsetIfNecessary]
 
 
-#import "FSCalendarCollectionView.h"
+#import "Include/FSCalendarCollectionView.h"
 #import "FSCalendarExtensions.h"
-#import "FSCalendarConstants.h"
+#import "Include/FSCalendarConstants.h"
 
 @interface FSCalendarCollectionView ()
 
