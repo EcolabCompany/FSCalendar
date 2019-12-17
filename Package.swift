@@ -11,7 +11,7 @@ let package = Package(
     products: [
         .library(
             name: "FSCalendar",
-            type: .dynamic,
+//            type: .dynamic,
             targets: ["FSCalendar"])
     ],
     targets: [
